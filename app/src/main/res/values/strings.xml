@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Information</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_author_title">16139</string>
+    <string name="nav_version_number">v(1.0)</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_help">Help</string>
+    <string name="action_Language">Language</string>
+
+    <string name="menu_addMovies">Add Movies</string>
+    <string name="menu_movieList">Show Movies</string>
+    <string name="menu_favorite">favorite movie</string>
+    <string name="search_MovieHint">Search Movies</string>
+    <string name="search_btn">Search</string>
+    <string name="delete_btn">Delete</string>
+    <string name="showPoster_btn">Show Poster</string>
+    <string name="save_btn">Save</string>
+    <string name="Edt_savePref">Enter Favorite Movie</string>
+</resources>

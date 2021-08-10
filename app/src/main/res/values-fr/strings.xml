@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Informations sur le film</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="nav_author_title">16139</string>
+    <string name="nav_version_number">v(1.0)</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_help">Aider</string>
+    <string name="action_Language">Langue</string>
+
+    <string name="menu_addMovies">Ajouter des films</string>
+    <string name="menu_movieList">Afficher les films</string>
+    <string name="menu_favorite">film préféré</string>
+    <string name="search_MovieHint">Rechercher des films</string>
+    <string name="search_btn">Chercher</string>
+    <string name="delete_btn">Supprimer</string>
+    <string name="showPoster_btn">Afficher l\'affiche</string>
+    <string name="save_btn">sauver</string>
+    <string name="Edt_savePref">Entrez le film préféré</string>
+</resources>
