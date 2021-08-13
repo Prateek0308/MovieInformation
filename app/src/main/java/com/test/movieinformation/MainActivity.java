@@ -25,7 +25,7 @@ import com.google.android.material.navigation.NavigationView;
 import java.util.Locale;
 
 /**
- * @author Vatsal Dholakiya
+ * @author Prateek Ahlawat
  * @version 1.0
  */
 public class MainActivity extends AppCompatActivity {
